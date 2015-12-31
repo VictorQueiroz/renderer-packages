@@ -15,6 +15,7 @@ The bundle contains all the dependencies (including Renderer)
 
 ```html
 <script src="bower_components/renderer-packages/build/renderer-bundle.js"></script>
+<script src="bower_components/renderer-packages/build/renderer-router.js"></script>
 ```
 
 ```js
@@ -40,5 +41,23 @@ renderer.bootstrap(document, 'app');
 - ndShow
 - ndRepeat
 - ndHide
+
+#### Events
 - ndClick
+- ndDblclick
+- ndMousedown
+- ndMouseup
+- ndmouseover
+- ndMouseout
+- ndMousemove
+- ndMouseenter
+- ndMouseleave
+- ndKeydown
+- ndKeyup
+- ndKeypress
 - ndSubmit
+- ndFocus
+- ndBlur
+- ndCopy
+- ndCut
+- ndPaste

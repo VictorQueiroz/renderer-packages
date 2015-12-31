@@ -24,5 +24,8 @@
     "karma": "^0.13.16",
     "karma-chrome-launcher": "^0.2.2",
     "karma-jasmine": "^0.3.6"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1"
   }
 }

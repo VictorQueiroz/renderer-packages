@@ -1,1 +1,1 @@
-renderer.module('nd.packages', []);
+var ndModule = renderer.module('nd.packages', []);
