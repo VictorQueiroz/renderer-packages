@@ -1,0 +1,28 @@
+{
+  "name": "renderer-packages",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Victor Queiroz <victorcqueirozg@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/VictorQueiroz/renderer-packages",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "eventemitter": "~1.0.3",
+    "location": "1.0.4",
+    "renderer": "~1.0.22",
+    "renderer-moduleloader": "1.0.2",
+    "renderer-router": "~1.0.21",
+    "injector": "injection#~1.0.2",
+    "moduleloader": "~1.0.21",
+    "routedriver": "~1.0.2"
+  }
+}
